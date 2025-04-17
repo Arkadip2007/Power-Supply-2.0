@@ -2,25 +2,10 @@
 Power Supply Gen 2 for 400 W
 
 <img src="public/Setup (2).jpg">
-
-<p align="center">
-  <img src="public/Setup (1).jpg" alt="Image 1" width="42%" style="margin-right: 10px;"/>
-  <img src="public/components 01.jpg" alt="Image 2" width="56%" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-  <img src="public/components 02.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
-  <img src="public/components 03.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-  <img src="public/components 04.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
-  <img src="public/components 05.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-  <img src="public/components 05-1.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
-  <img src="public/components 05-2.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
-</p>
+> This above image is Gen 2.o model. with 20 amp DC to DC
 
 ---
+
 </br>
 </br>
 
@@ -142,6 +127,9 @@ https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
 
 ---
 
+<details>	
+ <summary><b>📌 Gen 01 Update</b></summary><br>
+
 ### Total Cost Breakdown:  
 As per your shared list, the total cost of the project is **₹3245** (Gen 01), including components and repair expenses. [Learn more](https://college-final-year-project.netlify.app/)
 
@@ -169,6 +157,8 @@ As per your shared list, the total cost of the project is **₹3245** (Gen 01), 
 
 ---
 
+</details>
+
 # Alternate Circuit
 
 https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e
@@ -177,3 +167,50 @@ https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e
 
 </br>
 </br>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+  
+## Gen 2.o
+</div>
+
+</br>
+</br>
+
+<p align="center">
+  <img src="public/Setup (1).jpg" alt="Image 1" width="42%" style="margin-right: 10px;"/>
+  <img src="public/components 01.jpg" alt="Image 2" width="56%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="public/components 02.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="public/components 03.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="public/components 04.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="public/components 05.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="public/components 05-1.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="public/components 05-2.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+</p>
+
+---
+
+</br>
+</br>
+
+<p align="center">
+  <img src="public/DC to DC 20 amp.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="public/components 06.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="public/components 07.jpg" alt="Image 1" width="32%" style="margin-right: 10px;"/>
+  <img src="public/components 08.jpg" alt="Image 2" width="32%" style="margin-left: 10px;"/>
+  <img src="public/components 12.jpg" alt="Image 2" width="32%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="public/components 09.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="public/components 10.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+</p>
+
+<img src="public/components 11.jpg">
+<img src="public/arkadip-mahapatra.jpg">
