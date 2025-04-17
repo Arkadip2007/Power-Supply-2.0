@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Power Supply 2.0</title>
+  <style>
+    :root {
+      --bg-color: #121212;
+      --text-color: #e0e0e0;
+      --accent-color: #bb86fc;
+      --highlight: #03dac5;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      line-height: 1.6;
+    }
+
+    .container {
+      padding: 20px;
+      max-width: 960px;
+      margin: auto;
+      animation: fadeIn 1.2s ease-in-out;
+    }
+
+    h1, h2, h3 {
+      color: var(--accent-color);
+    }
+
+    a {
+      color: var(--highlight);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin: 10px 0;
+    }
+
+    .center {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin: 20px 0;
+    }
+
+    .image-row img {
+      width: 100%;
+      max-width: 45%;
+    }
+
+    details {
+      background-color: #1e1e1e;
+      border-left: 4px solid var(--accent-color);
+      padding: 10px;
+      margin: 20px 0;
+      border-radius: 8px;
+    }
+
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 600px) {
+      .image-row img {
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🔋 Power Supply 2.0</h1>
+    <p>Power Supply Gen 2 for 400 W</p>
+    <img src="public/Setup (2).jpg" alt="Gen 2.0 Model" />
+
+    <blockquote>
+      This above image is Gen 2.o model. with 20 amp DC to DC
+    </blockquote>
+
+    <div class="center">
+      <h3>⚙️ Old Model (Gen 01):</h3>
+      🔬 <a href="https://github.com/akashdip2001/college-final-year-project/blob/main/README.md">GitHub</a> & 🕸️ <a href="https://akashdip2001.github.io/college-final-year-project/6%20sem%20powerSupply/index.html">Website</a>
+    </div>
+
+    <div class="image-row center">
+      <img src="https://github.com/user-attachments/assets/9a2c9d1e-dffa-4924-a8f1-5fe9c1c35774" alt="Image 1">
+      <img src="https://github.com/user-attachments/assets/16b642c4-2ba8-4a47-b2de-e9b3fa741ab6" alt="Image 2">
+    </div>
+
+    <h2>🔌 Input Power</h2>
+    <ul>
+      <li>AC mains input of <strong>230V at 50Hz</strong></li>
+      <li>Connected to a <strong>step-down transformer (230V to secondary, 1.5A)</strong></li>
+    </ul>
+
+    <h2>🔃 Rectification Stage</h2>
+    <p>Full-wave rectifier using 4x <strong>6A4 diodes</strong> in bridge config.</p>
+
+    <h2>🔧 Smoothing Stage</h2>
+    <p><strong>470μF capacitor</strong> (35V) filters the DC output.</p>
+
+    <h2>🔋 Voltage Regulation Stage</h2>
+    <p>Uses <strong>7815 and 7805 ICs</strong> for +15V and +5V outputs.</p>
+
+    <h2>🌀 Cooling Mechanism</h2>
+    <p>Heat sink + cooling fan on voltage regulators.</p>
+
+    <h2>⚡ Output Stage</h2>
+    <p><strong>300W 10A 30V Buck Converter</strong> controls final output.</p>
+
+    <h2>🎚️ Control and Switching System</h2>
+    <ul>
+      <li>10kΩ Potentiometers for voltage/current</li>
+      <li>Black switch: main power control</li>
+      <li>Red switch: electroplating ON/OFF</li>
+    </ul>
+    <p><strong>Try to control wirelessly via LAN using Raspberry Pi</strong></p>
+
+    <h2>📟 Display System</h2>
+    <p>Digital Voltmeter + Ammeter to show output. Measures using buck converter + shunt resistor.</p>
+
+    <h2>💡 LED Indicators</h2>
+    <ul>
+      <li>Red LED: Process indicator</li>
+      <li>Other LEDs: Power status & buck converter ON</li>
+    </ul>
+
+    <h2>⚠️ Circuit Precautions</h2>
+    <ul>
+      <li>Limit current to 5-8A</li>
+      <li>Use proper insulation and cooling</li>
+      <li>Good soldering ensures durability</li>
+    </ul>
+
+    <details>
+      <summary>📌 Gen 01 Update</summary>
+      <p>Total Cost: ₹3245 (Gen 01). Includes all components and repair expenses.</p>
+      <img src="https://github.com/akashdip2001/college-final-year-project/raw/main/img/423094084-daa643e7-bf54-4855-9d06-89380113a25d.jpg" alt="Resistor Result" />
+    </details>
+
+    <h2>⚡ Alternate Circuit</h2>
+    <p><a href="https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e">View Image</a></p>
+
+    <h2>📸 Gen 2.0 Gallery</h2>
+    <div class="image-row center">
+      <img src="public/Setup (1).jpg" alt="Setup">
+      <img src="public/components 01.jpg" alt="Components">
+      <img src="public/components 02.jpg">
+      <img src="public/components 03.jpg">
+      <img src="public/components 04.jpg">
+      <img src="public/components 05.jpg">
+      <img src="public/components 05-1.jpg">
+      <img src="public/components 05-2.jpg">
+      <img src="public/DC to DC 20 amp.jpg">
+      <img src="public/components 06.jpg">
+      <img src="public/components 07.jpg">
+      <img src="public/components 08.jpg">
+      <img src="public/components 12.jpg">
+      <img src="public/components 09.jpg">
+      <img src="public/components 10.jpg">
+      <img src="public/components 11.jpg">
+      <img src="public/arkadip-mahapatra.jpg">
+    </div>
+  </div>
+</body>
+</html>
