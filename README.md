@@ -2,6 +2,7 @@
 Power Supply Gen 2 for 400 W
 
 <img src="public/Setup (2).jpg">
+
 > This above image is Gen 2.o model. with 20 amp DC to DC
 
 ---
@@ -199,8 +200,8 @@ https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e
 </br>
 
 <p align="center">
-  <img src="public/DC to DC 20 amp.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
-  <img src="public/components 06.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+  <img src="public/DC to DC 20 amp.jpg" alt="Image 1" width="36%" style="margin-right: 10px;"/>
+  <img src="public/components 06.jpg" alt="Image 2" width="61%" style="margin-left: 10px;"/>
 </p>
 <p align="center">
   <img src="public/components 07.jpg" alt="Image 1" width="32%" style="margin-right: 10px;"/>
@@ -208,8 +209,8 @@ https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e
   <img src="public/components 12.jpg" alt="Image 2" width="32%" style="margin-left: 10px;"/>
 </p>
 <p align="center">
-  <img src="public/components 09.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
-  <img src="public/components 10.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+  <img src="public/components 09.jpg" alt="Image 1" width="47%" style="margin-right: 10px;"/>
+  <img src="public/components 10.jpg" alt="Image 2" width="52%" style="margin-left: 10px;"/>
 </p>
 
 <img src="public/components 11.jpg">
