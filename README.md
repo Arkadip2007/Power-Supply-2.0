@@ -12,7 +12,7 @@ Power Supply Gen 2 for 400 W
 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
   
-### ⚙️ Old Model (Gen 01) : 🔬 Github [link](https://github.com/akashdip2001/college-final-year-project/blob/main/README.md) & 🕸️ WebSite [link](https://akashdip2001.github.io/college-final-year-project/6%20sem%20powerSupply/index.html) ⚙️
+# ⚙️ Old Model (Gen 01) : 🔬 Github [link](https://github.com/akashdip2001/college-final-year-project/blob/main/README.md) & 🕸️ WebSite [link](https://akashdip2001.github.io/college-final-year-project/6%20sem%20powerSupply/index.html) ⚙️
 </div>
 
 </br>
@@ -176,7 +176,7 @@ https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e
 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
   
-## Gen 2.o
+# Gen 2.o
 </div>
 
 </br>
