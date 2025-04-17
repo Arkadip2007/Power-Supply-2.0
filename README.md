@@ -23,6 +23,11 @@ Power Supply Gen 2 for 400 W
   <img src="https://github.com/user-attachments/assets/16b642c4-2ba8-4a47-b2de-e9b3fa741ab6" alt="Image 2" width="56%%" style="margin-left: 10px;"/>
   </br>
 </p>
+<p align="center">
+<img src="public/gen01.jpg" alt="Image 1" width="50%%" style="margin-right: 10px;"/>
+  <img src="public/gen02.jpg" alt="Image 2" width="47%%" style="margin-left: 10px;"/>
+  </br>
+</p>
 
 https://github.com/user-attachments/assets/46dd8667-5b26-4def-98d9-c782ca856aed
 
